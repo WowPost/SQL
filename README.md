@@ -2,9 +2,8 @@
 
 A simple database scheme for a boulangerie. SQL study:
 
-```
 ![Tabelas](https://github.com/WowPost/SQL/assets/150549548/25d576e4-2db9-4bec-a668-165cf541148d) ![InsertTabelas](https://github.com/WowPost/SQL/assets/150549548/acced15c-1736-40d4-a34d-2ee951a65c81)
-```
+
 
 ```
 ![InsertPadariaCozinha](https://github.com/WowPost/SQL/assets/150549548/9f334311-97c7-4460-ac1f-5c1ddc0d7c0f) ![SelectPadaria](https://github.com/WowPost/SQL/assets/150549548/a0092ad3-9236-473e-a1c9-64ff677391b5)
